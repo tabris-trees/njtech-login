@@ -22,3 +22,4 @@ browser = webdriver.Chrome() # 修改这里的Chrome，具体参见教程
 
 - [x] 自动连接WiFi（可以在代码里面直接将相应的改为自己的内容，就不用每次输入）
 - [x] 连接后自动登录校园网
+- [ ] 更加轻便的cookie方法
